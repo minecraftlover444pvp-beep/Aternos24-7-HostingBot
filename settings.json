@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip":  Vortexk98-SH40.aternos.me:40527
+    "port": 40527
     "version": "",
     "try-creative": false
   },
